@@ -27,3 +27,38 @@ C:\Users\ifrat\OneDrive\Área de Trabalho\testeMVC\testeMVC\obj\Debug\net8.0\ref
 C:\Users\ifrat\OneDrive\Área de Trabalho\testeMVC\testeMVC\obj\Debug\net8.0\testeMVC.pdb
 C:\Users\ifrat\OneDrive\Área de Trabalho\testeMVC\testeMVC\obj\Debug\net8.0\testeMVC.genruntimeconfig.cache
 C:\Users\ifrat\OneDrive\Área de Trabalho\testeMVC\testeMVC\obj\Debug\net8.0\ref\testeMVC.dll
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\bin\Debug\net8.0\appsettings.json
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\bin\Debug\net8.0\testeMVC.staticwebassets.runtime.json
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\bin\Debug\net8.0\testeMVC.staticwebassets.endpoints.json
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\bin\Debug\net8.0\testeMVC.exe
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\bin\Debug\net8.0\testeMVC.deps.json
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\bin\Debug\net8.0\testeMVC.runtimeconfig.json
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\bin\Debug\net8.0\testeMVC.dll
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\bin\Debug\net8.0\testeMVC.pdb
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\obj\Debug\net8.0\testeMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\obj\Debug\net8.0\testeMVC.AssemblyInfoInputs.cache
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\obj\Debug\net8.0\testeMVC.AssemblyInfo.cs
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\obj\Debug\net8.0\testeMVC.csproj.CoreCompileInputs.cache
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\obj\Debug\net8.0\testeMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\obj\Debug\net8.0\testeMVC.RazorAssemblyInfo.cache
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\obj\Debug\net8.0\testeMVC.RazorAssemblyInfo.cs
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\obj\Debug\net8.0\testeMVC.sourcelink.json
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\obj\Debug\net8.0\scopedcss\bundle\testeMVC.styles.css
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\obj\Debug\net8.0\scopedcss\projectbundle\testeMVC.bundle.scp.css
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\obj\Debug\net8.0\staticwebassets\msbuild.testeMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\obj\Debug\net8.0\staticwebassets\msbuild.testeMVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.testeMVC.props
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.testeMVC.props
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.testeMVC.props
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\obj\Debug\net8.0\testeMVC.dll
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\obj\Debug\net8.0\refint\testeMVC.dll
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\obj\Debug\net8.0\testeMVC.pdb
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\obj\Debug\net8.0\testeMVC.genruntimeconfig.cache
+C:\Users\2ds\Desktop\TesteMVC\testeMVC\obj\Debug\net8.0\ref\testeMVC.dll

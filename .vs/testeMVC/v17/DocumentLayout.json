@@ -1,13 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2ds\\Desktop\\testeMVC-main\\TesteMVC\\",
+  "WorkspaceRootPath": "C:\\Users\\2ds\\Desktop\\TesteMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F449924C-1747-4BC9-92D5-6C22204D4DD4}|testeMVC\\testeMVC.csproj|c:\\users\\2ds\\desktop\\testemvc-main\\testemvc\\testemvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F449924C-1747-4BC9-92D5-6C22204D4DD4}|testeMVC\\testeMVC.csproj|c:\\users\\2ds\\desktop\\testemvc\\testemvc\\views\\home\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F449924C-1747-4BC9-92D5-6C22204D4DD4}|testeMVC\\testeMVC.csproj|solutionrelative:testemvc\\views\\home\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F449924C-1747-4BC9-92D5-6C22204D4DD4}|testeMVC\\testeMVC.csproj|c:\\users\\2ds\\desktop\\testemvc\\testemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F449924C-1747-4BC9-92D5-6C22204D4DD4}|testeMVC\\testeMVC.csproj|solutionrelative:testemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F449924C-1747-4BC9-92D5-6C22204D4DD4}|testeMVC\\testeMVC.csproj|c:\\users\\2ds\\desktop\\testemvc\\testemvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F449924C-1747-4BC9-92D5-6C22204D4DD4}|testeMVC\\testeMVC.csproj|solutionrelative:testemvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F449924C-1747-4BC9-92D5-6C22204D4DD4}|testeMVC\\testeMVC.csproj|c:\\users\\2ds\\desktop\\testemvc-main\\testemvc\\testemvc\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F449924C-1747-4BC9-92D5-6C22204D4DD4}|testeMVC\\testeMVC.csproj|c:\\users\\2ds\\desktop\\testemvc\\testemvc\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F449924C-1747-4BC9-92D5-6C22204D4DD4}|testeMVC\\testeMVC.csproj|solutionrelative:testemvc\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,10 +31,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Lista.cshtml",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\TesteMVC\\testeMVC\\Views\\Home\\Lista.cshtml",
+              "RelativeDocumentMoniker": "testeMVC\\Views\\Home\\Lista.cshtml",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\TesteMVC\\testeMVC\\Views\\Home\\Lista.cshtml",
+              "RelativeToolTip": "testeMVC\\Views\\Home\\Lista.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T13:18:27.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\TesteMVC\\testeMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "testeMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\TesteMVC\\testeMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "testeMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:13:24.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\testeMVC-main\\TesteMVC\\testeMVC\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\TesteMVC\\testeMVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "testeMVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\2ds\\Desktop\\testeMVC-main\\TesteMVC\\testeMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\TesteMVC\\testeMVC\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "testeMVC\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -35,11 +69,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\testeMVC-main\\TesteMVC\\testeMVC\\Models\\Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\TesteMVC\\testeMVC\\Models\\Pessoa.cs",
               "RelativeDocumentMoniker": "testeMVC\\Models\\Pessoa.cs",
-              "ToolTip": "C:\\Users\\2ds\\Desktop\\testeMVC-main\\TesteMVC\\testeMVC\\Models\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\TesteMVC\\testeMVC\\Models\\Pessoa.cs",
               "RelativeToolTip": "testeMVC\\Models\\Pessoa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
