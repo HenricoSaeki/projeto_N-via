@@ -4,6 +4,7 @@ namespace testeMVC.Models
 {
     public class Pessoa
     {
+        [EmailAddress(ErrorMessage = "Endereço de Email Inválido")]
         [Display(Name = "Codigo do Cliente")]
         public int? PessoaId { get; set; }
         [Display(Name = "Nome do Cliente")]
